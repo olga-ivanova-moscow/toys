@@ -11,6 +11,14 @@
   <title>Мой игрушечный проект</title>
 </head>
 <body>
-<h3 align="center">Создан пустой web проект в IDEA</h3>
+<div>
+  <h1>Test application</h1>
+</div>
+<div>
+  <div>
+    <button onclick="location.href='/myToyProject_war_exploded/list'">List users</button>
+    <button onclick="location.href='/myToyProject_war_exploded/add'">Add user</button>
+  </div>
+</div>
 </body>
 </html>
