@@ -1,2 +1,4 @@
 /home/ivolga/projects/myToyProject/src/main/java/app/servlets/AddServlet.java
+/home/ivolga/projects/myToyProject/src/main/java/app/model/Model.java
 /home/ivolga/projects/myToyProject/src/main/java/app/servlets/ListServlet.java
+/home/ivolga/projects/myToyProject/src/main/java/app/entities/User.java

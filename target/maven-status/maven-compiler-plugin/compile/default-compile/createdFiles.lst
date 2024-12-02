@@ -1,2 +1,4 @@
+app/entities/User.class
 app/servlets/AddServlet.class
+app/model/Model.class
 app/servlets/ListServlet.class
